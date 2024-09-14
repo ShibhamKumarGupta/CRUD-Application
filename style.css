@@ -1,0 +1,36 @@
+.container .topic{
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    border-radius: 15px;
+}
+.main_form{
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 10px 10px 10px 10px lightblue;
+}
+._btn{
+    text-align: center;
+}
+.submit_btn{
+    padding: 5px 20px;
+    color: white;
+    background-color: blue;
+    border-radius: 10px;
+    width: 200px;
+    box-shadow: 3px 3px lightblue;
+}
+.btn_newdata{
+    background-color: blue;
+    padding: 7px 10px;
+    border-radius: 5px;
+    width: 200px;
+    border: none;
+}
+.btn_newdata a{
+    text-decoration: none;
+    color: white;
+}
+.table{
+    box-shadow: 10px 10px 10px 10px lightblue;
+}
